@@ -1,11 +1,11 @@
 # ui-ux
-___
-- prototypeÄ¿Â¼´æ·ÅÏµÍ³½»»¥Ô­ĞÍÎÄ¼ş£¬ÓÃstart.html¿ªÊ¼
-- manualÄ¿Â¼´æ·ÅÏµÍ³½»»¥²âÊÔÊÖ²á,¿ÉÒÔÓÃÕâ¸öÊÖ²á¶ÔÕÕprototype½øĞĞÏ¸½Ú²âÊÔ
-- VIÄ¿Â¼´æ·ÅopenthosÏµÍ³ÊÓ¾õÉè¼ÆÏà¹ØÎÄ¼ş
+
+- prototypeç›®å½•å­˜æ”¾ç³»ç»Ÿäº¤äº’åŸå‹æ–‡ä»¶ï¼Œç”¨start.htmlå¼€å§‹
+- manualç›®å½•å­˜æ”¾ç³»ç»Ÿäº¤äº’æµ‹è¯•æ‰‹å†Œ,å¯ä»¥ç”¨è¿™ä¸ªæ‰‹å†Œå¯¹ç…§prototypeè¿›è¡Œç»†èŠ‚æµ‹è¯•
+- VIç›®å½•å­˜æ”¾openthosç³»ç»Ÿè§†è§‰è®¾è®¡ç›¸å…³æ–‡ä»¶
 
 
-___
+
 ## related info
  - http://www.google.com/design/spec/material-design/introduction.html
  - http://wiki.jikexueyuan.com/project/material-design/
